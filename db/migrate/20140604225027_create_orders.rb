@@ -6,7 +6,7 @@ class CreateOrders < ActiveRecord::Migration
       t.string :type
       t.timestamp :created_at, :updated_at
     end
-    add_index :orders, :stock_id
+    add_index :orders, :user_stock_id
     add_index :orders, :user_id
     add_index :orders, :type
   end
