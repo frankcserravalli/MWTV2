@@ -40,8 +40,10 @@ gem "sdoc", "~> 0.4.0",          group: :doc
 gem "tzinfo-data", platforms: [:mingw, :mswin]
 
 
-  #Testing Framework Gems as per RailsCasts
-gem "cucumber"
-gem "rspec"
-gem "rspec-rails"
-gem "webrat"
+#Testing Framework Gems as per RailsCasts
+gem "cucumber", "~> 1.3.15"
+gem "cucumber-rails", "~> 1.4.1", :require => false
+gem "rspec", "~> 3.0.0"
+gem "rspec-rails", "~> 3.0.1"
+gem "webrat", github: "brynary/webrat"
+gem "database_cleaner", "~> 1.3.0"
