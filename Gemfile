@@ -47,3 +47,6 @@ gem "rspec", "~> 3.0.0"
 gem "rspec-rails", "~> 3.0.1"
 gem "webrat", github: "brynary/webrat"
 gem "database_cleaner", "~> 1.3.0"
+
+#ZurbFoundation
+gem "foundation-rails", "~> 5.2.3.0"
