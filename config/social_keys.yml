@@ -1,0 +1,31 @@
+development:
+  facebook_key: "331752936918078"
+  facebook_secret: "6dee4f074f905e98957e9328bf4d91a3"
+
+  twitter_key: "YOUR_KEY"
+  twitter_secret: "YOUR_SECRET"
+
+  github_key: "YOUR_KEY"
+  github_secret: "YOUR_SECRET"
+
+  linkedin_key: "xoc3a06gsosd"
+  linkedin_secret: "41060V6v5K38dnV4"
+
+  google_key: "YOUR_KEY"
+  google_secret: "YOUR_SECRET"
+
+production:
+  facebook_key: "331752936918078"
+  facebook_secret: "6dee4f074f905e98957e9328bf4d91a3"
+
+  twitter_key: "YOUR_KEY"
+  twitter_secret: "YOUR_SECRET"
+
+  github_key: "YOUR_KEY"
+  github_secret: "YOUR_SECRET"
+
+  linkedin_key: "xoc3a06gsosd"
+  linkedin_secret: "41060V6v5K38dnV4"
+
+  google_key: "YOUR_KEY"
+  google_secret: "YOUR_SECRET"
